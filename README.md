@@ -64,17 +64,15 @@
   - **Средний** – 29 регионов;  
   - **Высокий** – 28 регионов.
 - Наибольшая доля регионов с высокой смертностью – в **Центральном и Сибирском** федеральных округах.
-
-  <a href="https://www.datawrapper.de/_/8VXzD/?v=3">
-    <img src="visualizations/смертность детей от онкологических заболеваний в регионах России в 2022 году...png" width="500" alt="Смертность по регионам">
+  
+    <img src="visualizations/child_cancer_mortality_russia_2022.png" width="500" alt="Смертность по регионам">
   </a>  
   <br><sub><em>Рис. 3 – Смертность детей от ЗНО по регионам РФ, 2022 г. (кликните для интерактива)</em></sub>
   
 2) Антитоп-10 регионов по смертности: 
   - Наибольшее число регионов с высокой детской смертностью от онкологических заболеваний приходится на **Сибирский (3 региона) и Центральный (3 региона) федеральные округа**.
  
-  <a href="visualizations/антиоп-10 по смертности по регионам.png">
-    <img src="visualizations/антиоп-10 по смертности по регионам.png" width="500" alt="Антиоп-10 смертность">
+    <img src="visualizations/antiop10_mortality_regions.png" width="500" alt="Антиоп-10 смертность">
   </a>  
   <br><sub><em>Рис. 4 – Антиоп-10 (смертность) по субъектам РФ</em></sub>
   
@@ -92,19 +90,17 @@
    - В возрастной группе **10-14 лет** доля **острого лимфолейкоза** снижается до **20%**, но остается самой частой локализацией.
 
   <p align="center">
-    <a href="visualizations/локализации-выбросы 0-4 года.jpg">
-      <img src="visualizations/локализации-выбросы 0-4 года.jpg" width="180" alt="0-4 года" style="margin: 0 10px;">
-    </a>
-    <a href="visualizations/локализации-выбросы 5-9 лет.jpg">
-      <img src="visualizations/локализации-выбросы 5-9 лет.jpg" width="180" alt="5-9 лет" style="margin: 0 10px;">
-    </a>
-    <a href="visualizations/локализации-выбросы 10-14 лет.jpg">
-      <img src="visualizations/локализации-выбросы 10-14 лет.jpg" width="180" alt="10-14 лет" style="margin: 0 10px;">
-    </a>
+    <img src="visualizations/localizations_outliers_0-4.jpg" width="180" alt="0-4 года" style="margin: 0 10px;">
+    <img src="visualizations/localizations_outliers_5-9.jpg" width="180" alt="5-9 лет" style="margin: 0 10px;">
+    <img src="visualizations/localizations_outliers_10-14.jpg" width="180" alt="10-14 лет" style="margin: 0 10px;">
   </p>
   <p align="center"><sub><em>0–4 года  5–9 лет  10–14 лет</em></sub></p>
   
 ### 3. Половые различия в заболеваемости
+ <a href="https://www.datawrapper.de/_/k6jAY/?v=5">
+    <img src="visualizations/pediatric_oncology_by_gender_2022.png" width="500" alt="Распределение по полу">
+  </a>  
+  <br><sub><em>Рис. 4 – Распределение детской онкологической заболеваемости по полу, 2022 г. (кликните для интерактива)</em></sub>
 1) Наиболее высокие показатели у обоих полов:
    - **Острый лимфолейкоз** – наибольший показатель у мальчиков (3,69) и девочек (2,93).  
    - **Опухоли головного мозга** – второе место у мальчиков (1,79) и девочек (1,73).
@@ -114,20 +110,18 @@
    - **Щитовидная железа** – в 2,6 раза чаще у девочек.
 - **Сводные таблицы к обоим пунктам**:
   **Топ-10 локализаций у девочек**:
-  <a href="visualizations/топ-10 локализаций у девочек.jpg">
-    <img src="visualizations/топ-10 локализаций у девочек.jpg" width="500" alt="Топ-10 девочки">
+    <img src="visualizations/top10_localizations_girls.jpg" width="500" alt="Топ-10 девочки">
   </a>  
   <br><sub><em>Рис. 5 – Топ-10 локализаций ЗНО у девочек</em></sub>
   
   - **Топ-10 локализаций у мальчиков**:
-  <a href="visualizations/топ-10 локализаций у мальчиков.jpg">
-    <img src="visualizations/топ-10 локализаций у мальчиков.jpg" width="500" alt="Топ-10 мальчики">
+    <img src="visualizations/top10_localizations_girls.jpg" width="500" alt="Топ-10 мальчики">
   </a>  
   <br><sub><em>Рис. 6 – Топ-10 локализаций ЗНО у мальчиков</em></sub>
   
 3) - **Структура детской онкологической заболеваемости в России (2022)**  
   <a href="https://www.datawrapper.de/_/qLntK/?v=2">
-    <img src="visualizations/структура детской онкологической заболеваемости в России в 2022 по видам и ...png" width="500" alt="Структура заболеваемости">
+    <img src="visualizations/pediatric_cancer_structure_2022.png" width="500" alt="Структура заболеваемости">
   </a>  
   <br><sub><em>Рис. 7 – Структура заболеваемости по видам онкологии, 2022 г. (кликните для интерактива)</em></sub>
   
